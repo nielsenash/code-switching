@@ -13,4 +13,7 @@ This is a project designed to explore how well large language models are able to
 
 ### Insights
 
+- Whisper Tiny and Whisper Base are small enough to run on an 8GB laptop
+- Whisper Base took about 1 hr 
 - Whisper can sometimes predict a totally different language than the actual input language
+    - There were some preedictions that were in greek but they sounded like the English equivalent 
